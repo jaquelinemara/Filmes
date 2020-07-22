@@ -1,4 +1,4 @@
 # Filmes
 
-CRUD de cadastro de filmes com conexão ao banco de dados. O sistema em PHP deve cadastrar, exibir, editar e deletar filmes. 
-A base de dados "php.sql" foi criado através do phpmyadmin.
+CRUD for registering movies with connection to the database. The PHP system must register, display, edit and delete films.
+The *php.sql* database was created using phpmyadmin.
